@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-debug&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-debug" /> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 Always learning
 
 - 📫 How to reach me **sonalisaxena457@gmail.com**
 
